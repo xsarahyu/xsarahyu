@@ -15,4 +15,3 @@
 <br> 🌼 <strong>Frontend:</strong> HTML, CSS, React.js
 <br> 🌼 <strong>Backend:</strong> Node.js
 <br> 🌼 <strong>Database:</strong> MongoDB
-<br> 🌼 <strong>Other:</strong> Git, GitHub
