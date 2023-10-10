@@ -3,7 +3,7 @@
 <h3>Designer & Software Engineer</h3>
 🌷 <strong>Working on</strong> developing responsive and adaptive websites.
 <br> 🌷 <strong>Currently learning</strong> JavaScript, React.js, Node.js, and MongoDB.
-<br> 🌷 <strong>Check out my</strong> <a href="https://xsarahyu.github.io/portfolio/">portfolio</a>!
+<br> 🌷 <strong>Check out my</strong> <a href="https://xsarahyu.github.io/portfolio/" target="_blank">portfolio</a>!
 
 <h3>Get In Touch</h3>
 🌸 <a href="https://linkedin.com/in/sarah-a-yu" target="_blank">LinkedIn</a>
