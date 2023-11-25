@@ -6,10 +6,12 @@
 <br> 🌷 <strong>Check out my</strong> <a href="https://xsarahyu.github.io/portfolio/" target="_blank">portfolio</a>!
 
 <h3>Skills</h3>
-🌼 <strong>Programming languages:</strong> JavaScript, Python
-<br> 🌼 <strong>Frontend:</strong> HTML, CSS, React.js
-<br> 🌼 <strong>Backend:</strong> Node.js
-<br> 🌼 <strong>Database:</strong> MongoDB
+🌼 <strong>Programming languages:</strong> JavaScript, Python, SQL
+<br> 🌼 <strong>Frontend:</strong> HTML, CSS, Bootstrap, Tailwind, React
+<br> 🌼 <strong>Backend:</strong> Node.js, Express, EJS
+<br> 🌼 <strong>Databases:</strong> MongoDB, MySQL
+<br> 🌼 <strong>Data visualization:</strong> NumPy, Matplotlib
+<br> 🌼 <strong>Other:</strong> Git, GitHub, APIs
 
 <h3>Get In Touch</h3>
 🌸 <a href="https://linkedin.com/in/sarah-a-yu" target="_blank">LinkedIn</a>
