@@ -3,7 +3,7 @@
 ### Software Engineer
 🌷 **Working on** developing responsive and adaptive web apps.
 <br> 🌷 **Currently learning** JavaScript and React.
-<br> 🌷 **Check out my** [portfolio](https://xsarahyu.github.io/portfolio/){:target="_blank"}!
+<br> 🌷 **Check out my** <a href="https://xsarahyu.github.io/portfolio" target="_blank">portfolio</a>!
 
 ### Skills
 🌼 **Languages:** JavaScript, Python
@@ -16,6 +16,6 @@
 <br> 🌼 **Other:** AWS, Docker, Git, GitHub, Netlify, Fly.io, Railway, Figma, Miro, project management
 
 ### Get In Touch
-🌸 [LinkedIn](https://linkedin.com/in/xsarahyu){:target="_blank"}
-<br> 🌸 [Twitter](https://twitter.com/xsarahyu){:target="_blank"}
-<br> 🌸 [Email](mailto:xsarahyu@gmail.com){:target="_blank"}
+🌸 <a href="https://linkedin.com/in/xsarahyu" target="_blank">LinkedIn</a>
+<br> 🌸 <a href="https://twitter.com/xsarahyu" target="_blank">Twitter</a>
+<br> 🌸 <a href="mailto:xsarahyu@gmail.com" target="_blank">Email</a>
