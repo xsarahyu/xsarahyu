@@ -1,8 +1,8 @@
 ## Hi there, Sarah here! ✿ ʕ・ᴥ・ʔノ⋆｡ ﾟ｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆
 
 ### Software Engineer
-🌷 **Working on** developing responsive and adaptive web apps.
-<br> 🌷 **Currently learning** JavaScript and React.
+🌷 **Working on** developing AI.
+<br> 🌷 **Currently learning** React.
 <br> 🌷 **Check out my** <a href="https://xsarahyu.github.io/portfolio" target="_blank">portfolio</a>!
 
 ### Skills
