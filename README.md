@@ -2,7 +2,7 @@
 
 ### Software Engineer
 🌷 **Working on** developing AI.
-<br> 🌷 **Currently learning** React.
+<br> 🌷 **Currently learning** React and data structures & algorithms.
 <br> 🌷 **Check out my** <a href="https://xsarahyu.github.io/portfolio" target="_blank">portfolio</a>!
 
 ### Skills
@@ -10,7 +10,7 @@
 <br> 🌼 **Frontend:** HTML, CSS, jQuery, Bootstrap, Tailwind, React, Vite, Flowbite, AJAX, Axios
 <br> 🌼 **Backend:** Node, Express, EJS, REST API, Postman
 <br> 🌼 **Databases:** MongoDB, Mongoose, MySQL
-<br> 🌼 **Data visualization:** NumPy, Matplotlib
+<br> 🌼 **Data Visualization:** NumPy, Matplotlib
 <br> 🌼 **Testing:** Jest, Vitest, Cypress
 <br> 🌼 **Operating Systems:** Windows, WSL, Linux (Ubuntu), macOS
 <br> 🌼 **Other:** AWS, Docker, Git, GitHub, Netlify, Fly.io, Railway, Figma, Miro, project management
