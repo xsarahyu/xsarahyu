@@ -6,9 +6,9 @@
 <br> 🌷 **Check out my** <a href="https://xsarahyu.github.io/portfolio" target="_blank">portfolio</a>!
 
 ### Skills
-🌼 **Languages:** JavaScript, Python
-<br> 🌼 **Frontend:** HTML, CSS, jQuery, Bootstrap, Tailwind, React, Vite, Flowbite, AJAX, Axios
-<br> 🌼 **Backend:** Node, Express, EJS, REST API, Postman
+🌼 **Programming Languages:** JavaScript, Python
+<br> 🌼 **Front-End Development:** HTML, CSS, jQuery, Bootstrap, Tailwind, React, Vite, Flowbite, AJAX, Axios
+<br> 🌼 **Back-End Development:** Node, Express, EJS, REST API, Postman
 <br> 🌼 **Databases:** MongoDB, Mongoose, MySQL
 <br> 🌼 **Data Visualization:** NumPy, Matplotlib
 <br> 🌼 **Testing:** Jest, Vitest, Cypress
