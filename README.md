@@ -13,7 +13,7 @@
 <br> 🌼 **Data Visualization:** NumPy, Matplotlib
 <br> 🌼 **Testing:** Jest, Vitest, Cypress
 <br> 🌼 **Operating Systems:** Windows, WSL, Linux (Ubuntu), macOS
-<br> 🌼 **Other:** AWS, Docker, Git, GitHub, GitHub Actions, Agile, Kanban, Project management, Figma, Miro, UI/UX design
+<br> 🌼 **Other:** AWS, Docker, Git, GitHub, GitHub Actions, Agile, Scrum, Kanban, Project management, Figma, Miro, UI/UX design
 
 ### Get In Touch
 🌸 <a href="https://linkedin.com/in/xsarahyu" target="_blank">LinkedIn</a>
