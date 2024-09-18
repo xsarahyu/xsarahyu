@@ -2,18 +2,20 @@
 
 ### Software Engineer
 🌷 **Working on** developing AI.
-<br> 🌷 **Currently learning** React and data structures & algorithms.
+<br> 🌷 **Currently learning** React and AI/ML.
 <br> 🌷 **Check out my** <a href="https://xsarahyu.github.io/portfolio" target="_blank">portfolio</a>!
 
 ### Skills
-🌼 **Programming Languages:** JavaScript, Python, SQL
-<br> 🌼 **Front-End Development:** HTML, CSS, jQuery, Bootstrap, Tailwind, React, Vite, Flowbite, AJAX, Axios
-<br> 🌼 **Back-End Development:** Node, Express, EJS, REST APIs, Postman
-<br> 🌼 **Databases:** MongoDB, Mongoose, MySQL
+🌼 **Programming Languages:** JavaScript, Python, PHP, SQL
+<br> 🌼 **Front-End Development:** React, HTML, CSS, jQuery, Bootstrap, Tailwind
+<br> 🌼 **Back-End Development:** Node.js, Express.js, EJS, REST APIs
+<br> 🌼 **Databases:** MongoDB MySQL
 <br> 🌼 **Data Visualization:** NumPy, Matplotlib
-<br> 🌼 **Testing:** Jest, Vitest, Cypress
+<br> 🌼 **Testing:** Jest, Vitest, Cypress, Selenium
+<br> 🌼 **DevOps Tools:** Docker, Git, GitHub, GitHub Actions
+<br> 🌼 **Content Management Systems:** WordPress, Terminalfour, Drupal
 <br> 🌼 **Operating Systems:** Windows, WSL, Linux (Ubuntu), macOS
-<br> 🌼 **Other:** AWS, Docker, Git, GitHub, GitHub Actions, Agile, Scrum, Kanban, Project management, Figma, Miro, UI/UX design
+<br> 🌼 **Other:** Agile, Figma, UI/UX design, WCAG 2.1, SEO, Artificial Intelligence (AI) and Machine Learning (ML)
 
 ### Get In Touch
 🌸 <a href="https://linkedin.com/in/xsarahyu" target="_blank">LinkedIn</a>
