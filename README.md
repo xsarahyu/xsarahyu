@@ -9,7 +9,7 @@
 🌼 **Programming Languages:** JavaScript, Python, PHP, SQL
 <br> 🌼 **Front-End Development:** React, HTML, CSS, jQuery, Bootstrap, Tailwind
 <br> 🌼 **Back-End Development:** Node.js, Express.js, EJS, REST APIs
-<br> 🌼 **Databases:** MongoDB MySQL
+<br> 🌼 **Databases:** MongoDB, MySQL
 <br> 🌼 **Data Visualization:** NumPy, Matplotlib
 <br> 🌼 **Testing:** Jest, Vitest, Cypress, Selenium
 <br> 🌼 **DevOps Tools:** Docker, Git, GitHub, GitHub Actions
