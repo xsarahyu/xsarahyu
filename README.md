@@ -14,6 +14,7 @@
 <br> 🌼 **Testing**: Jest, Vitest, Cypress, Selenium
 <br> 🌼 **DevOps**: Docker, Git, GitHub, GitHub Actions
 <br> 🌼 **Content Management Systems**: WordPress, Terminalfour, Drupal
+<br> 🌼 **Optical Character Recognition (OCR)**: PyTesseract, Pillow (PIL)
 <br> 🌼 **Operating Systems**: Windows, WSL, Linux (Ubuntu), macOS
 <br> 🌼 **Other**: Agile, Figma, UI/UX design, WCAG 2.1, SEO, Artificial Intelligence (AI) and Machine Learning (ML)
 
