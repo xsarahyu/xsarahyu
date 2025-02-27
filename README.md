@@ -1,7 +1,8 @@
 ## Hi there, Sarah here! ✿ ʕ・ᴥ・ʔノ⋆｡ ﾟ｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆
 
 ### Software Engineer
-🌷 **Check out my** <a href="https://xsarahyu.github.io/portfolio" target="_blank">portfolio</a>!
+As a software engineer with a background in biology and medicine, I bring a unique, interdisciplinary perspective to tech. Combining analytical problem-solving with strong technical skills, my work spans full-stack development, HealthTech, and BioTech.
+<br> 🌷 **Check out my** <a href="https://xsarahyu.github.io/portfolio" target="_blank">portfolio</a>!
 
 ### Skills
 🌼 **Programming Languages**: JavaScript, Python, PHP, SQL
