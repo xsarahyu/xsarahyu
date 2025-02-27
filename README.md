@@ -19,5 +19,4 @@ As a software engineer with a background in biology and medicine, I bring a uniq
 
 ### Get In Touch
 🌸 <a href="https://linkedin.com/in/xsarahyu" target="_blank">LinkedIn</a>
-<br> 🌸 <a href="https://twitter.com/xsarahyu" target="_blank">Twitter</a>
 <br> 🌸 <a href="mailto:xsarahyu@gmail.com" target="_blank">Email</a>
